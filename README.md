@@ -1,3 +1,6 @@
+# SaaS Revenue & Churn Analytics Dashboard
+
+A Tableau-based SaaS revenue and churn analysis project using subscription KPI modeling.
 
 ## 🔗 Live Interactive Dashboard
 
